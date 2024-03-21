@@ -1,0 +1,44 @@
+N-Queen Problem Solutions
+
+Overview
+	This README accompanies the Python implementations of two algorithms for solving the N-Queen problem: the Steepest-Ascent Hill Climbing Algorithm and the Genetic Algorithm. 
+	These scripts are designed to solve the 8-queen problem, where the goal is to place 8 queens on an 8x8 chessboard such that no two queens threaten each other.
+
+Requirements
+	-Python 3.x
+	-No external libraries are required.
+
+File Structure
+	1. hill_climbing.py - Contains the Steepest-Ascent Hill Climbing Algorithm.
+	2. genetic_algorithm.py - Contains the Genetic Algorithm.
+
+Running the Code
+	1. Steepest-Ascent Hill Climbing Algorithm:
+		-Navigate to the directory containing hill_climbing.py.
+		-Run the script using Python:
+			<python hill_climbing.py>
+		-The script will execute the algorithm on 100 random instances and display the percentage of solved problems, average heuristic cost, and average running time.
+	
+	2. Genetic Algorithm:
+		-Navigate to the directory containing genetic_algorithm.py.
+		-Run the script using Python:
+			<python genetic_algorithm.py>
+		-The script will execute the algorithm on 100 random instances, displaying the percentage of solved problems, average generations, average running time, and 
+		 the details of three unique solutions found.
+
+Output
+	1. Steepest-Ascent Hill Climbing:
+		- The output includes the percentage of instances solved, average cost, and average time taken per instance.
+	2. Genetic Algorithm:
+		- The output includes the percentage of instances solved, average generations taken, average time taken per instance, and detailed progression of three unique solutions.
+
+Customization
+	- You can modify the number of queens (default is 8) by changing the n parameter in the random_state(n=8) function in both scripts.
+	- For the Genetic Algorithm, the population size and number of generations can be adjusted in the genetic_algorithm function.
+
+Troubleshooting
+	- Ensure that you are using Python 3.x.
+	- If the script does not run, check if the Python path is correctly set in your system.
+	
+Author:
+[Anjali Rai]
