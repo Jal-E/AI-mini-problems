@@ -1,9 +1,7 @@
 4-in-a-Line AI Game
 
 Description:
-		This project is an implementation of an AI for playing the 4-in-a-Line game, a strategy board game played on an 8x8 grid. 
-		The AI uses the minimax algorithm with alpha-beta pruning for decision-making. This README provides instructions on how 
-		to compile and run the game, and describes the basic functionality.
+	This project is an implementation of an AI for playing the 4-in-a-Line game, a strategy board game played on an 8x8 grid. The AI uses the minimax algorithm with alpha-beta pruning for decision-making. This README provides instructions on how to compile and run the game, and describes the basic functionality.
 
 Requirements:
 	- Python 3.x
