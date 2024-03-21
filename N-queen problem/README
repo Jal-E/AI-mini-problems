@@ -1,8 +1,7 @@
 N-Queen Problem Solutions
 
 Overview
-	This README accompanies the Python implementations of two algorithms for solving the N-Queen problem: the Steepest-Ascent Hill Climbing Algorithm and the Genetic Algorithm. 
-	These scripts are designed to solve the 8-queen problem, where the goal is to place 8 queens on an 8x8 chessboard such that no two queens threaten each other.
+	This README accompanies the Python implementations of two algorithms for solving the N-Queen problem: the Steepest-Ascent Hill Climbing Algorithm and the Genetic Algorithm. These scripts are designed to solve the 8-queen problem, where the goal is to place 8 queens on an 8x8 chessboard such that no two queens threaten each other.
 
 Requirements
 	-Python 3.x
