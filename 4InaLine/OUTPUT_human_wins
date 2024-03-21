@@ -1,0 +1,107 @@
+[HUMAN WINS]
+/home/jal_e/PycharmProjects/pythonProject3/.venv/bin/python /home/jal_e/PycharmProjects/pythonProject3/4inaline.py 
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Would you like to go first? (y/n): N
+How long should the computer think about its moves (in seconds)? : 4
+Computer places on A1 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): B2
+  1 2 3 4 5 6 7 8
+A X - - - - - - -
+B - O - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A2 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X X - - - - - -
+B - O - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): B3
+  1 2 3 4 5 6 7 8
+A X X - - - - - -
+B - O O - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A3 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X X X - - - - -
+B - O O - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): A4
+  1 2 3 4 5 6 7 8
+A X X X O - - - -
+B - O O - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A5 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B - O O - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): B4
+  1 2 3 4 5 6 7 8
+A X X X O X - - -
+B - O O O - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A6 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X X X O X X - -
+B - O O O - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): B1
+Human wins!
+
+Process finished with exit code 0

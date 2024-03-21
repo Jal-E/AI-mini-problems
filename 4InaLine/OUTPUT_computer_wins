@@ -1,0 +1,93 @@
+[COMPUTER WINS]
+/home/jal_e/PycharmProjects/pythonProject3/.venv/bin/python /home/jal_e/PycharmProjects/pythonProject3/4inaline.py 
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Would you like to go first? (y/n): y
+How long should the computer think about its moves (in seconds)? : 4
+Choose your next move (e.g., A1): D4
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - O - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A1 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - O - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): C4
+  1 2 3 4 5 6 7 8
+A X - - - - - - -
+B - - - - - - - -
+C - - - O - - - -
+D - - - O - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A2 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X X - - - - - -
+B - - - - - - - -
+C - - - O - - - -
+D - - - O - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): B4
+  1 2 3 4 5 6 7 8
+A X X - - - - - -
+B - - - O - - - -
+C - - - O - - - -
+D - - - O - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A4 (Time taken: 4.00s)
+  1 2 3 4 5 6 7 8
+A X X - X - - - -
+B - - - O - - - -
+C - - - O - - - -
+D - - - O - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Choose your next move (e.g., A1): C5
+  1 2 3 4 5 6 7 8
+A X X - X - - - -
+B - - - O - - - -
+C - - - O O - - -
+D - - - O - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer places on A3 (Time taken: 4.00s)
+Computer wins!
+
+Process finished with exit code 0
+
+
+
+
+
+

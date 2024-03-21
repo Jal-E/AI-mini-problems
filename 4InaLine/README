@@ -1,0 +1,37 @@
+4-in-a-Line AI Game
+
+Description:
+		This project is an implementation of an AI for playing the 4-in-a-Line game, a strategy board game played on an 8x8 grid. 
+		The AI uses the minimax algorithm with alpha-beta pruning for decision-making. This README provides instructions on how 
+		to compile and run the game, and describes the basic functionality.
+
+Requirements:
+	- Python 3.x
+	- NumPy library
+
+Running the Game:
+	1. Open a terminal or command prompt.
+	2. Navigate to the directory where the game file is saved.
+	3. Run the game by typing python 4_in_a_line.py.
+
+Gameplay:
+	- The game starts by displaying an empty 8x8 board.
+	- The player is prompted to decide whether they want to go first.
+	- Players (human and AI) alternate turns, placing a piece on the board.
+	- Enter your move in the format LetterNumber (e.g., A1 for the top left corner).
+	- The goal is to be the first to get four of your pieces in a line (horizontally or vertically).
+	- The game ends when one player wins or the board is full.
+
+Features:
+	[Dynamic Board Evaluation]: The AI evaluates the board state and decides its moves based on a combination of immediate tactics and longer-term strategy.
+	[Alpha-Beta Pruning]: Reduces the number of nodes evaluated in the minimax algorithm, improving performance.
+	[User-friendly Interface]: Simple text-based interface for easy gameplay.
+
+Troubleshooting:
+	- Ensure all inputs are in the correct format. Invalid inputs will prompt a re-entry.
+	- If the game seems slow, it might be due to deep search depths in the minimax algorithm. This can be adjusted in the code if necessary.
+
+Author:
+[Anjali Rai]
+
+
